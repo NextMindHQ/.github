@@ -1,0 +1,2 @@
+# .github
+NextMindHQ organization profile
